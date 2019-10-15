@@ -4,7 +4,6 @@ title:  "WEEK 1"
 date:   2019-10-15 13:05:14 +0100
 categories: jekyll theme
 location: Karlsruhe, Germany
-comment: example
 ---
 
 Example

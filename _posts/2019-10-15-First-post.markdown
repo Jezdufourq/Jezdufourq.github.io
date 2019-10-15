@@ -10,7 +10,7 @@ Welcome to the travelog! Here I will be posting my adventures over the course of
  
 Blog posts will be every week (scheduled in for Tuesday at this stage). As I have some content from my previous travels (Scotland, London), I will be uploading some special posts dedicated to covering my experiences there. Furthermore, because it has taken a bit longer then expected to settle into a routine, I have missed two weeks of blog posts (since the start of my exchange). Therefore, I will try and catch up these posts where possible to fill in the missing time.
 
-If you would like information on how I have set up this website, please visit the info tab. If you would like information on myself, please visit the about tab. 
+<!-- If you would like information on how I have set up this website, please visit the info tab. If you would like information on myself, please visit the about tab.  -->
 
 Excited for everyone to join the adventure!
 

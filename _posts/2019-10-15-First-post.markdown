@@ -21,6 +21,6 @@ Excited for everyone to join the adventure!
 
 <div class="post-image">
     <!-- <img src="img/Hello World/IMG_7025.jpg" style="height:482px;" alt="A full-size image example" /> -->
-    <img src="img/Hello World/IMG_7025.jpg" alt="A full-size image example" />
-    <img src="img/Hello World/IMG_7359.jpg" alt="A full-size image example" />
+    <img src="photos/15-10-19-hello-world/IMG_7025.jpg" alt="A full-size image example" />
+    <img src="photos/15-10-19-hello-world/IMG_7359.jpg" alt="A full-size image example" />
 </div>

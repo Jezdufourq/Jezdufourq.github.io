@@ -219,4 +219,47 @@
             &:hover { color: $hover-color; }
         }
     }
+
+    .nav-bar{
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-color: transparent;
+        background-size: 44px;
+        min-height: 21px;
+
+
+        // The font used (Adobe Caslon Pro) has a peculiar line-height. This
+        // adjusts the position of the text in relation to the icon without
+        // adjusting the line-height property itself
+        margin-top: -9px;
+        padding-top: 9px;
+
+        // Force legal text colour [as it is a link]
+        color: $legal-text-color;
+
+        // However let the normal hover colour apply
+        &:hover { color: $hover-color; }
+    }
+
+    .nav-bar-seperator{
+        @include retina-background-image($img-separator);
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        background-color: transparent;
+        content: "";
+        width: 100%;
+        max-width: 596px;
+        height: 42px;
+        display: block;
+        margin: 20px auto 50px;
+
+        // Force background size to remain constant and not scale down
+        background-size: 596px !important;
+
+        // The breakpoint here was entirely guessed and tested by eye-balling the results
+        // ie. feel free to choose something more sensible
+        @include min-breakpoint(645px) {
+            margin-top: 5px;
+        }
+    }
 }

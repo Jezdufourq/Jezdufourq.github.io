@@ -241,6 +241,27 @@
         &:hover { color: $hover-color; }
     }
 
+    .nav-bar-home{
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-color: transparent;
+        background-size: 44px;
+        min-height: 21px;
+        font-size: 30px;
+
+        // The font used (Adobe Caslon Pro) has a peculiar line-height. This
+        // adjusts the position of the text in relation to the icon without
+        // adjusting the line-height property itself
+        margin-top: -9px;
+        padding-top: 9px;
+
+        // Force legal text colour [as it is a link]
+        color: $hover-color;
+
+        // However let the normal hover colour apply
+        &:hover { color: $legal-text-color; }
+    }
+
     .nav-bar-seperator{
         @include retina-background-image($img-separator);
         background-repeat: no-repeat;

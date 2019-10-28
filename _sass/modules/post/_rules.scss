@@ -120,6 +120,7 @@
         }
     }
 
+
     .post-image--split {
         @include min-breakpoint($image-splitting-breakpoint) {
             margin-right: -1 * $post-image-split-gutter;
@@ -127,6 +128,7 @@
 
         img {
             width: 100%;
+            height: 100%;
             display: block;
             margin-bottom: $post-image-split-gutter;
 

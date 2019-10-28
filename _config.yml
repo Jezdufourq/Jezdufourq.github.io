@@ -27,7 +27,13 @@ picturefill: false
 typekit_kit_id: kwf5dox
 
 # Build settings
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-emoji]
+emoji:
+  format: html # default html
+  ascii: true # default false
+  shortname: true # default true
+
+
 markdown: kramdown
 permalink: pretty
 

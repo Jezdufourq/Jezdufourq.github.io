@@ -11,5 +11,3 @@ This website was built with the following tools:
 
 
 If you would like information on how to set up a static site using the above tools, then I would highlighy recommend **[this](https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a)** blog post.
-
-

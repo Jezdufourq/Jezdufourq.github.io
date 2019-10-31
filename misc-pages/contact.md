@@ -12,7 +12,7 @@ title: Contact Me
 
 ### <center> <a href="mailto: contact@jmdufourq.com"><i style="color: $legal-text-color" class="far fa-envelope" aria-hidden="true"></i></a> Email </center>
 
-
+This is some text
 
 
 

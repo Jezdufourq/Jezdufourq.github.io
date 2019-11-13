@@ -11,7 +11,7 @@ location: Munich, Germany
 
 <div class="post-image post-image-caption">
     <img src="/photos/01-10-19-Oktoberfest/4.jpg" alt="Oktoberfest-4"/>
-    Oktoberfest enterence sign.
+    Oktoberfest entrance sign.
 </div>
 
 

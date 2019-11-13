@@ -98,5 +98,5 @@ So, some tips with Oktoberfest.
 4. Go to the Wasen if you prefer cheaper drinks and a more student vibe
 5. Do not book three days before going, you will pay for accommodation!
 
-Cheers Johannes for the lederhosen, I will give it back to you sometime before I go! Next week, Baden-Baden/Black Forrest.
+Cheers Johannes for the lederhosen, I will give it back to you sometime before I go! Next week, Baden-Baden/Black Forest.
 

@@ -55,7 +55,7 @@ I met Trent at 7:00 ish outside the festival entrance. With two tacked together 
 </div>
 
 
-We managed to sneak inside the tent after we grabbed a maß (stein). Inside the tent was crazy, there must have been over 5,000 people dancing on the tables and singing all kinds of German folk songs. The tents themselves were decorated as well, with huge paintings on the walls, and large cloth like material on the ceilings. Too be honest, this is the only thing that I remember much from the tents – People signing on tables, and the decorations on the walls. Another thing which some tourists to Oktoberfest do not understand is the white sugar like powder everywhere inside the tents. Most tourists mistake it for something else, but I found out about a month later that it is actually a mint powder to unclog your nose. Another fun fact!
+We managed to sneak inside the tent after we grabbed a maß (stein). Inside the tent was crazy, there must have been over 5,000 people dancing on the tables and singing all kinds of German folk songs. The tents themselves were decorated as well, with huge paintings on the walls, and large cloth like material on the ceilings. Too be honest, this is the only thing that I remember much from the tents – People signing on tables, and the decorations on the walls. Another thing which some tourists to Oktoberfest do not understand is the white sugar like powder everywhere inside the tents. Most tourists mistake it for something else, but I found out about a month later in Salzburg that it is actually a mint powder to unclog your nose, cheers Tom. Another fun fact!
 
 <div class="post-image-caption">
     <div class="post-image post-image--split">

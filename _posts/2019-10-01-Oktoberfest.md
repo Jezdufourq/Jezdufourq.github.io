@@ -27,7 +27,7 @@ Towards the later end of the week, some of the exchange students (as well as the
 </div>
 
 
-Due to some personal events, I had to cancel my Oktoberfest the week before with one of my mates, Trent, from QUT. However, I could not pass up the opportunity to attend the ‘event’ of Germany. So, in typical exchange student fashion, I booked a last-minute bus and hotel in Munich to stay the Friday night. If I can give you a tip about Oktoberfest, never book accommodation with 4 days of notice. It is extremely expensive, but the experience was worth the money. 
+I could not pass up the opportunity to attend the ‘event’ of Germany. So, in typical exchange student fashion, I booked a last-minute bus and hotel in Munich to stay the Friday night. If I can give you a tip about Oktoberfest, never book accommodation with 4 days of notice. It is extremely expensive, but the experience was worth the money. 
 
 <div class="post-image post-image-caption">
     <img src="/photos/01-10-19-Oktoberfest/3.jpg"  alt="Oktoberfest-3"/>

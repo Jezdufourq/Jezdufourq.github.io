@@ -43,3 +43,11 @@ paginate: 5
 # Sass
 sass:
     style: :compressed
+
+# Plugins
+plugins:
+  - jekyll-compress-images
+
+# Image path for Jekyll
+compress_images:
+  images_path: "photos/**/*.{gif,png,jpg,jpeg,svg}"

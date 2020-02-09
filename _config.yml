@@ -33,7 +33,6 @@ emoji:
   ascii: true # default false
   shortname: true # default true
 
-
 markdown: kramdown
 permalink: pretty
 
@@ -44,10 +43,14 @@ paginate: 5
 sass:
     style: :compressed
 
+# image optim plugin options
+advpng:
+  level: 2
+
+
 # Plugins
 plugins:
   - jekyll-compress-images
+  - image_optim
 
-# Image path for Jekyll
-compress_images:
-  images_path: "photos/**/*.{gif,png,jpg,jpeg,svg}"
+

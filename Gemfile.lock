@@ -27,9 +27,6 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-compress-images (1.2)
-      image_optim
-      image_optim_pack
     jekyll-emoji (1.0.3)
       jekyll (>= 2.0)
       oga (~> 1.2, >= 1.2.0)
@@ -64,8 +61,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  image_optim
+  image_optim_pack
   jekyll
-  jekyll-compress-images
   jekyll-emoji
   jekyll-paginate
 

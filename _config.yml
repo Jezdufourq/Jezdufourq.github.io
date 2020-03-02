@@ -8,14 +8,12 @@
 # Site settings
 title: •19/20• <br>•Year Abroad•</br>
 author: Jeremiah Dufourq
-author_link: https://jmdufourq.com
 author_description: Australian studying and working in Germany
-email: contact@jmdufourq.com
+email: jezdufourq@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A travelog of my time overseas studying and working in Germany. 
   It will also include my travels to other countries and cities around Europe and North America.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jmdufourq.com" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/

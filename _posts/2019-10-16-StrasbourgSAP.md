@@ -12,7 +12,7 @@ This week consisted of Strasbourg, walking around the SAP campus, and settling i
 
 <div class="post-image post-image-caption">
     <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/2019-10-16-StrasbourgSAP/1.jpg"  alt="strasbourgSAP-1"/>
-    Strasbourg from the Notre Dam.
+    Strasbourg from the Notre Dame.
 </div>
 
 The first couple of days of the week consisted of settling into university life. As per the previous blog post, I have arranged my university days so that I have classes on Tuesday, Wednesday and Thursday (with Thursday being the day which I have the customer collaboration project to work on for the whole day). 
@@ -32,7 +32,7 @@ Sunday, I went to Strasbourg with some of the other exchange students. Strasbour
 
 <div class="post-image post-image-caption">
     <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/2019-10-16-StrasbourgSAP/10.jpg"  alt="strasbourgSAP-10"/>
-    Overlooking strasbourg.
+    Overlooking Strasbourg.
 </div>
 
 The first thing which we did when we arrived in Strasbourg was to climb the notre dame Cathedral. This church has a spire height of 142m, and is the 6th tallest church in the world, and is the tallest 15th century structure in the world. From the top of the cathedral, you get a full 360-degree view of all of Strasbourg which was really impressive. Not only this, but the inside of the church was extremely beautiful, with a huge astronomical clock in the back right of the church. 

@@ -10,7 +10,7 @@ title: Contact Me
 
 ### <center> <a href="https://www.github.com/jezdufourq/"><i style="color: $legal-text-color" class="fab fa-github" aria-hidden="true"></i></a> Github <br><a>•</a> </center>
 
-### <center> <a href="mailto: contact@jmdufourq.com"><i style="color: $legal-text-color" class="far fa-envelope" aria-hidden="true"></i></a> Email </center>
+### <center> <a href="mailto: jezdufourq@gmail.com"><i style="color: $legal-text-color" class="far fa-envelope" aria-hidden="true"></i></a> Email </center>
 
 
 

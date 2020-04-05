@@ -9,15 +9,16 @@ You can download my CV **[here](https://jezdufourq-blog-assets.s3-ap-southeast-2
 
 Key development skills: <br>
 <ul>
+  <li>Java</li>
+  <li>Javascript + Vue</li>
   <li>C++</li>
   <li>C</li>
-  <li>Java</li>
   <li>Python</li>
-  <li>Learning Javascript</li>
 </ul>
 
 Key development tools: <br>
 <ul>
   <li>Git</li>
+  <li>Docker</li>
   <li>Jira</li>
 </ul>

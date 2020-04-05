@@ -13,8 +13,8 @@ Blog posts will be every week (scheduled in for Tuesday at this stage). As I hav
 Excited for everyone to join the adventure!
 
 <div class="post-image">
-    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/15-10-19-hello-world/1.jpg1.jpg" width="200" height="486" alt="The first in an example of split-imagery" />
-    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/15-10-19-hello-world/1.jpgjpg" width="200" height="486" alt="The second in an example of split-imagery" />
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/15-10-19-hello-world/1.jpg" width="200" height="486" alt="The first in an example of split-imagery" />
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/15-10-19-hello-world/2.jpg" width="200" height="486" alt="The second in an example of split-imagery" />
 </div>
 
 

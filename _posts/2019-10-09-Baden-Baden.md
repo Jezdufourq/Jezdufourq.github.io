@@ -10,7 +10,7 @@ location: Baden Baden, Germany
 This blog post is going to be short and sweet, because the week consisted of settling into Karlsruhe, University as well as going for a day trip to Baden-Baden.
 
 <div class="post-image post-image-caption">
-    <img src="/photos/09-10-19-Baden-Baden/1.jpg" alt="BadenBaden-1"/>
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/1.jpg" alt="BadenBaden-1"/>
     Maddy, EJ, Dani, Elise and I in Baden Baden, Germany!
 </div>
 
@@ -18,8 +18,8 @@ The week started with Maddy and I trying to sneak into the A2 class for German. 
 
 <div class="post-image post-image-caption">
     <div class="post-image post-image--split">
-        <img src="/photos/09-10-19-Baden-Baden/2.jpg" alt="BadenBaden-2">
-        <img src="/photos/09-10-19-Baden-Baden/3.jpg" alt="BadenBaden-3">
+        <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/2.jpg" alt="BadenBaden-2">
+        <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/3.jpg" alt="BadenBaden-3">
     </div>
     Breaking up the text with some photos of the Black Forest!
 </div>
@@ -31,40 +31,40 @@ On Wednesday, I went to the europohaus bar which is open on Mittwoch (Wednesday)
 I lucked out on my university schedule. With classes only on Tuesday, Wednesday and Thursday, I basically had Friday, Saturday, Sunday and Monday free to either travel or catch up on the University work. This weekend, we (EJ, Dani, Elise and Maddy) opted to go to Baden-Baden. Baden-Baden is a small town on the edge of the Black Forest. It is about a 30-minute drive from Karlsruhe. The city is a tourist destination due to it having thermal baths, and it being on the edge of the Black Forest. 
 
 <div class="post-image post-image-caption">
-    <img src="/photos/09-10-19-Baden-Baden/4.jpg" alt="BadenBaden-4"/>
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/4.jpg" alt="BadenBaden-4"/>
     Shot of Baden Baden from above. Shot on the DJI Mavic Air 📷
 </div>
 
 So, we caught the S-Bahn from Karlsruhe to Baden-Baden, stopping at the train station and then catching a bus from the train station to the middle of the city. Another perk of being a student in Karlsruhe is the amount of support you get from the German government to study there. For example, each of the students are given free travel to the KVV transport network (which is basically a 30-minute radius around Karlsruhe – Trams and S-Bahn’s in Karlsruhe are included). This is such a great perk because it saved me roughly 180 euros (300 AUD), thanks Germany! However, I am digressing from the point.
 
 <div class="post-image post-image-caption">
-    <img src="/photos/09-10-19-Baden-Baden/7.jpg" alt="BadenBaden-7"/>
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/7.jpg" alt="BadenBaden-7"/>
     KVV network, with a tram in the shot. Taken outside of the hauptbahnhof in Karlsruhe.
 </div>
 
 Baden-Baden is a beautiful city because it is situated in the Black forest. So, as you can image, the scenery was mountainous with plenty of trees in sight. In addition to this, the season was Autumn (Fall in the northern hemisphere), so all of the trees were orange, red and yellow. The morning consisted of us wandering around the city and stopping past the hot springs (which are only really good during winter, maybe next time). For lunch we went to the Löwenbräu restaurant (trivial as Baden-Baden is in Baden-Wurttemberg, and Löwenbräu is from Bavaria). To add to this, I order Spätzle which is actually from Baden-Wurttemberg. We ran into Emer (a friend from Ireland) outside of the restaurant coincidentally, after we finished out lunch. 
 
 <div class="post-image post-image-caption">
-    <img src="/photos/09-10-19-Baden-Baden/5.jpg" alt="BadenBaden-5"/>
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/5.jpg" alt="BadenBaden-5"/>
     Baden Baden next to the hot springs.
 </div>
 
 After lunch, we walked to the bottom of the mountain close to Baden Baden where we caught the Merkur Funicular Railway to the top of the mountain. The views from the top of the mountain was amazing. It was interrupted after an angry German came and shouted at me for trying to fly my drone. Serves me right though because I was flying it in the same area where paragliders were jumping off the mountain. And that was it! The end of the Baden-Baden trip, I would explain the rest but it’s not interesting (came down the mountain, caught the bus and then train back).
 
 <div class="post-image post-image-caption">
-    <img src="/photos/09-10-19-Baden-Baden/6.jpg" alt="BadenBaden-6"/>
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/6.jpg" alt="BadenBaden-6"/>
     View from the top of the mountain.
 </div>
 
 The week finished with the stadtfest in Karlsruhe (city fest), which is the festival of the City. It was really interesting because most of the stores are closed on Sunday in Germany, and there are no one in the streets. However, for the stadtfest, there were so many people in the streets (particularly Kaiserstraße – the main street in Karlsruhe). That night I went down the level 3 on my dorm and went out with the Americans and Italians to an American bar (la cage), because britt(American) asked for a bottle opener. The week finished on Monday where Maddy, Yannik and I went to the Oxford pub to have a schnitzel and campus ale. Campus ale is basically a mix of beer and cider, it is really good!
 
 <div class="post-image post-image--split">
-    <img src="/photos/09-10-19-Baden-Baden/8.jpg" alt="BadenBaden-8">
-    <img src="/photos/09-10-19-Baden-Baden/9.jpg" alt="BadenBaden-9">
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/8.jpg" alt="BadenBaden-8">
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/9.jpg" alt="BadenBaden-9">
 </div>
 
 <div class="post-image post-image-caption">
-    <img src="/photos/09-10-19-Baden-Baden/10.jpg" alt="BadenBaden-10">
+    <img src="https://jezdufourq-blog-assets.s3-ap-southeast-2.amazonaws.com/09-10-19-Baden-Baden/10.jpg" alt="BadenBaden-10">
     And some more photos!
 </div>
 
